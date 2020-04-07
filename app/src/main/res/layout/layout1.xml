@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-
     <TextView
         android:id="@+id/ch1_1_11"
         android:layout_width="200dp"
@@ -47,3 +46,4 @@
         android:layout_height="wrap_content"
         android:hint="please a null" />
 </LinearLayout>
+
